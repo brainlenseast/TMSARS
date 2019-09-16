@@ -1,7 +1,7 @@
 ## TMSARS
 CompDyslexia
 
-#Changelog
+# Changelog
 * 8/5/2019 Updated Trial Lists - Stimuli Randomised Over Runs to reduce match/mismatch trial predictability
 * 8/3/2019 Fixes for response keypress recording and for RT timing inaccuracies. Impoved code for manually quitting script execution.
 * 5/8/2019 Temporo-parietal localiser script updated - added MNI fallback for ROIs in case of no fMRI activity
