@@ -1,0 +1,97 @@
+modality,type,string1,string2,string3,string4,audio,seg_dur,ISI,ITI
+audio,motor_aud,Press,three times,on the,right button.,motor_right.wav,2.4,NA,2
+visual,calc_vis,Calculate,seventeen,minus,six.,NA,0.5,0.1,2
+audio,motor_aud,Press,three times,on the,right button.,motor_right.wav,2.4,NA,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+visual,sent_vis,There are,many,bridges,in Paris.,NA,0.5,0.1,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+audio,calc_aud,Calculate,twelve,minus,six.,calc_3.wav,2.4,NA,2
+visual,calc_vis,Calculate,twelve,minus,four.,NA,0.5,0.1,2
+audio,sent_aud,People with,a ticket,are allowed,to enter.,sent_5.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+audio,motor_aud,Press,three times,on the,left button.,motor_left.wav,2.4,NA,2
+audio,motor_aud,Press,three times,on the,left button.,motor_left.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+visual,sent_vis,He stole,the bike ,from the,postman.,NA,0.5,0.1,2
+visual,sent_vis,The moon,shines,over,the sea.,NA,0.5,0.1,2
+visual,calc_vis,Calculate,fourteen,minus,seven.,NA,0.5,0.1,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+visual,calc_vis,Calculate,eleven,minus,three.,NA,0.5,0.1,2
+audio,motor_aud,Press,three times,on the,right button.,motor_right.wav,2.4,NA,2
+visual,calc_vis,Calculate,sixteen,minus,eight.,NA,0.5,0.1,2
+visual,calc_vis,Calculate,sixteen,minus,two.,NA,0.5,0.1,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+audio,motor_aud,Press,three times,on the,right button.,motor_right.wav,2.4,NA,2
+visual,sent_vis,The cold,of winter ,frooze,the lake.,NA,0.5,0.1,2
+visual,sent_vis,In town,we easily,find,a taxi.,NA,0.5,0.1,2
+visual,motor_vis,Press,three times,on the,left button.,NA,0.5,0.1,2
+visual,calc_vis,Calculate,seventeen,minus,nine.,NA,0.5,0.1,2
+audio,calc_aud,Calculate,eleven,minus,four.,calc_11.wav,2.4,NA,2
+audio,motor_aud,Press,three times,on the,right button.,motor_right.wav,2.4,NA,2
+audio,calc_aud,Calculate,sixteen,minus,nine.,calc_9.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,right button.,NA,0.5,0.1,2
+audio,motor_aud,Press,three times,on the,left button.,motor_left.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,left button.,NA,0.5,0.1,2
+audio,calc_aud,Calculate,seventeen,minus,five.,calc_10.wav,2.4,NA,2
+visual,sent_vis,He gives,a present,to his,children.,NA,0.5,0.1,2
+audio,sent_aud,Runners put,their name,down on,a list.,sent_6.wav,2.4,NA,2
+audio,sent_aud,The man took,a rabbit,out of,his hat.,sent_12.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,right button.,NA,0.5,0.1,2
+visual,motor_vis,Press,three times,on the,right button.,NA,0.5,0.1,2
+audio,motor_aud,Press,three times,on the,left button.,motor_left.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,left button.,NA,0.5,0.1,2
+audio,sent_aud,There are,no more,steam,trains.,sent_9.wav,2.4,NA,2
+audio,sent_aud,Banks,are closed,on,Sundays.,sent_10.wav,2.4,NA,2
+audio,sent_aud,The rain,completely,destroyed,the crops.,sent_8.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+visual,motor_vis,Press,three times,on the,left button.,NA,0.5,0.1,2
+audio,sent_aud,December,is,the coldest,month.,sent_4.wav,2.4,NA,2
+audio,sent_aud,We could,borrow books,from the,library.,sent_1.wav,2.4,NA,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+audio,motor_aud,Press,three times,on the,right button.,motor_right.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+visual,calc_vis,Calculate,nineteen,minus,seven.,NA,0.5,0.1,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+visual,motor_vis,Press,three times,on the,right button.,NA,0.5,0.1,2
+visual,sent_vis,The rain,has made,the road,dangerous.,NA,0.5,0.1,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+visual,calc_vis,Calculate,eleven,minus,nine.,NA,0.5,0.1,2
+audio,sent_aud,Warm,countries,attract,tourists.,sent_2.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+visual,sent_vis,We saw,the parade,from,the balcony.,NA,0.5,0.1,2
+audio,sent_aud,A fridge,helps to,preserve,food.,sent_3.wav,2.4,NA,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+audio,calc_aud,Calculate,fourteen,minus,eight.,calc_7.wav,2.4,NA,2
+audio,calc_aud,Calculate,twelve,minus,three.,calc_12.wav,2.4,NA,2
+visual,calc_vis,Calculate,ten,minus,two.,NA,0.5,0.1,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+visual,sent_vis,This train,is often,one hour,late.,NA,0.5,0.1,2
+audio,sent_aud,My daughter,built,a,snowman.,sent_11.wav,2.4,NA,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+visual,sent_vis,He lost,the keys,to his,car.,NA,0.5,0.1,2
+visual,sent_vis,They eat,bread,with,their cheese.,NA,0.5,0.1,2
+audio,calc_aud,Calculate,twelve,minus,seven.,calc_4.wav,2.4,NA,2
+visual,calc_vis,Calculate,nineteen,minus,six.,NA,0.5,0.1,2
+audio,motor_aud,Press,three times,on the,left button.,motor_left.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+audio,calc_aud,Calculate,eleven,minus,six.,calc_2.wav,2.4,NA,2
+audio,calc_aud,Calculate,fiftheen,minus,eight.,calc_8.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,right button.,NA,0.5,0.1,2
+audio,motor_aud,Press,three times,on the,left button.,motor_left.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,left button.,NA,0.5,0.1,2
+visual,calc_vis,Calculate,thirteen,minus,seven.,NA,0.5,0.1,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+audio,calc_aud,Calculate,thirteen,minus,eight.,calc_5.wav,2.4,NA,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+checkerH,checkerH,NA,NA,NA,NA,NA,NA,0.2,2
+audio,calc_aud,Calculate,eleven,minus,five.,calc_1.wav,2.4,NA,2
+checkerV,checkerV,NA,NA,NA,NA,NA,NA,0.2,2
+audio,sent_aud,He,received,a parking,ticket.,sent_7.wav,2.4,NA,2
+visual,sent_vis,Fear made,my heart,beat,faster.,NA,0.5,0.1,2
+audio,calc_aud,Calculate,thirteen,minus,nine.,calc_6.wav,2.4,NA,2
+visual,motor_vis,Press,three times,on the,left button.,NA,0.5,0.1,2
+visual,motor_vis,Press,three times,on the,right button.,NA,0.5,0.1,2
